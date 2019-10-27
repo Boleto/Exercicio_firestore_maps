@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096590334764",
+    "firebase_url": "https://fatecipinoitepdmfirebaseauthfi.firebaseio.com",
+    "project_id": "fatecipinoitepdmfirebaseauthfi",
+    "storage_bucket": "fatecipinoitepdmfirebaseauthfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096590334764:android:3f5e413bf1c50d3cdd6a89",
+        "android_client_info": {
+          "package_name": "br.com.boleto.fatec_ipi_noite_pdm_firebase_auth_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096590334764-dtlk1jl8rqko1h5cqt6gkddfp4efpek3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.boleto.fatec_ipi_noite_pdm_firebase_auth_firestore",
+            "certificate_hash": "867ab2b66ac19c382453d13698a03f0cb846fb1b"
+          }
+        },
+        {
+          "client_id": "1096590334764-fqre6ljm50puq13uiioeh8gim1jdkfb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9G7oxpgTM_39m5YKcZLcwqfyD1YT6dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096590334764-fqre6ljm50puq13uiioeh8gim1jdkfb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
